@@ -1,1 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+opencv-python
+Pillow
+flask
+gunicorn
+h5py
+tqdm
 pytest
